@@ -6,7 +6,7 @@ namespace Mask
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Enter in a secret.");
+             Console.WriteLine("Please enter in a secret.");
             var mysecret = Console.ReadLine();
             string hiddenletters = "";
 
